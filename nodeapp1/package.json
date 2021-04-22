@@ -1,0 +1,20 @@
+{
+  "name": "nodeapp1",
+  "version": "0.1.0",
+  "description": "Journey Booking Frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "",
+    "app": "node server.js"
+  },
+  "author": "Sherwin Mascarenhas",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ejs": "^3.1.6",
+    "express": "^4.16.3",
+    "kafkajs": "^1.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
